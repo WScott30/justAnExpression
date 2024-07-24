@@ -1,0 +1,17 @@
+.form-div form > input {
+    width: 450px;
+    padding: 20px 20px;
+    border: none;
+    border-bottom: 1.5px solid blueviolet;
+  }
+
+  .todolist-div {
+    width: 550px;
+    margin: 20px 20px;
+    display: flex;
+    justify-content: space-between;
+  }
+  li {
+    font-size: 44px;
+    cursor: pointer;
+  }
